@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySigmalR", "MySigmalR\MySigmalR.csproj", "{6B9AA6E3-A5E4-4780-AE3C-3861893239D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9AA6E3-A5E4-4780-AE3C-3861893239D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9AA6E3-A5E4-4780-AE3C-3861893239D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9AA6E3-A5E4-4780-AE3C-3861893239D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9AA6E3-A5E4-4780-AE3C-3861893239D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB372F7C-0161-4B57-A1A4-2BB563340C9E}
+	EndGlobalSection
+EndGlobal
